@@ -48,6 +48,6 @@ For me JavaScript was not that complex to learn because I had learned two other 
 
 ### Using the logic with JavaScript and DOM I was able to make 2 sites. The first one is a dice game website. The second is a drum roll site.
 
-# 5. React js.
+# 5. Angular
 
-Currently I am learning a famous JavaScript framework which is React.
+Currently I am learning a famous JavaScript framework which is Angular.
